@@ -269,4 +269,4 @@ This project demonstrates an end-to-end Databricks workflow combining data engin
 
 The project provides a production-oriented foundation for building scalable retail analytics and machine learning solutions on Databricks.
 
-Note: users should replace the placeholder with their own token(Databricks Token) before running the notebook.
+Note: Users should replace the placeholder with their own token(Databricks Token) before running the notebook.
